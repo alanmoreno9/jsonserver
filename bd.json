@@ -19,6 +19,19 @@
       "fechavencimiento": "01/25",
       "cvv": "478"
     }
+  ],
+
+  "conductores":[
+    {
+    "id": 1,
+    "nombre": "Manuel Soto",
+    "rut": "21457223-k",
+    "telefono": 997774412,
+    "marcaVehiculo": "suzuki",
+    "modeloVehiculo": "swift",
+    "añoVehiculo": 2023,
+    "placaVehiculo": "SK-RK-78"
+    }
   ]
   
 }
