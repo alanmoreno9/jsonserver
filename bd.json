@@ -42,6 +42,20 @@
     "añoVehiculo": 2021,
     "placaVehiculo": "GZ-TH-57"
     }
+  ],
+
+  "conductoresActivos":[
+    {
+    "id": 1,
+    "nombre": "Alan Moreno",
+    "rut": "21450089-2",
+    "telefono": 972675498,
+    "marcaVehiculo": "chevrolet",
+    "modeloVehiculo": "spark",
+    "añoVehiculo": 2022,
+    "placaVehiculo": "BB-CL-34",
+    "estado": "Activo"
+    }
   ]
   
 }
