@@ -31,6 +31,16 @@
     "modeloVehiculo": "swift",
     "añoVehiculo": 2023,
     "placaVehiculo": "SK-RK-78"
+    },
+    {
+    "id": 2,
+    "nombre": "Bryan Pinto",
+    "rut": "21555000-2",
+    "telefono": 997127843,
+    "marcaVehiculo": "kia",
+    "modeloVehiculo": "morning",
+    "añoVehiculo": 2021,
+    "placaVehiculo": "GZ-TH-57"
     }
   ]
   
