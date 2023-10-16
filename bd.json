@@ -1,9 +1,5 @@
 {
-  "usuarios": [
-    
-  ],
-
-  
+  "usuarios": [],
   "metodopago":[
     {
       "id": 1,
@@ -20,21 +16,20 @@
       "cvv": "478"
     }
   ],
-
   "conductores":[
     {
-    "id": 2,
-    "nombre": "Bryan",
-    "apellido": "Pinto",
-    "correo": "a@a.com",
-    "contraseña": "1234567", 
-    "telefono": 997127843,
-    "marcaVehiculo": "kia",
-    "modeloVehiculo": "morning",
-    "añoVehiculo": 2021,
-    "placaVehiculo": "GZ-TH-57"
-    "rut": "21555000-2",
-    "estado": false
+      "id": 2,
+      "nombre": "Bryan",
+      "apellido": "Pinto",
+      "correo": "a@a.com",
+      "contraseña": "1234567", 
+      "telefono": 997127843,
+      "marcaVehiculo": "kia",
+      "modeloVehiculo": "morning",
+      "añoVehiculo": 2021,
+      "placaVehiculo": "GZ-TH-57",
+      "rut": "21555000-2",
+      "estado": false
     }
   ],
   "solicitudes":[
@@ -43,6 +38,5 @@
       "idconductor": null,
       "idusuario": null,
     }
-  ]
-  
+  ]  
 }
