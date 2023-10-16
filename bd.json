@@ -47,14 +47,14 @@
   "conductoresActivos":[
     {
     "id": 1,
-    "nombre": "Alan Moreno",
-    "rut": "21450089-2",
-    "telefono": 972675498,
-    "marcaVehiculo": "chevrolet",
-    "modeloVehiculo": "spark",
-    "añoVehiculo": 2022,
-    "placaVehiculo": "BB-CL-34",
-    "estado": "Activo"
+    "idConductor" :  2
+    }
+  ],
+  "solicitudes":[
+    {
+      "id": 1,
+      "idconductor": null,
+      "idusuario": null,
     }
   ]
   
