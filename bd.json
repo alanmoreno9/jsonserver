@@ -1,21 +1,5 @@
 {
   "usuarios": [],
-  "metodopago":[
-    {
-      "id": 1,
-      "tipotarjeta":"vista",
-      "numero": "1234 1234 1234 1234",
-      "fechavencimiento": "06/27",
-      "cvv": "449"
-    },
-    {
-      "id": 2,
-      "tipotarjeta":"visa",
-      "numero": "4321 4321 4321 4321",
-      "fechavencimiento": "01/25",
-      "cvv": "478"
-    }
-  ],
   "conductores":[
     {
       "id": 2,
