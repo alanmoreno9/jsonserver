@@ -16,11 +16,5 @@
       "estado": false
     }
   ],
-  "solicitudes":[
-    {
-      "id": 1,
-      "idconductor": null,
-      "idusuario": null
-    }
-  ]  
+  "solicitudes":[]  
 }
